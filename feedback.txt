@@ -1,0 +1,96 @@
+Project Name: ece250-w24-lab3-am2jegan
+
+
+===> Project Clone Result:
+Project Name: ece250-w24-lab3-am2jegan
+user: ece250-w24-lab3-am2jegan
+files: True
+Last Update Date: 2024-03-25T17:51:25.647-04:00
+Deadline: 2024-03-25, 11:59pm
+Penalty Percentage: 0
+Project ID: 89802
+
+===> Make Result: 
+success
+
+===> Marking Scheme - test cases
+******* TestCases: 64%
+   There are 10 test input files.
+******* Memory Leak : 16%
+   +16: if the total memory leak is zero (8% test07.in, 8% test10.in)
+******* Performance : 10% (if 'Test 10 Elapsed Time (s)' less than 0.0045)
+******* OOP : 10%
+
+
+===> Performance - time (CPU: AMD Ryzen 9 5900X 12-Core Processor):
+Project Name: ece250-w24-lab3-am2jegan
+Test 1 Result: success
+Test 1 Elapsed Time (s): 0.00429224967956543
+Test 2 Result: success
+Test 2 Elapsed Time (s): 0.004298210144042969
+Test 3 Result: success
+Test 3 Elapsed Time (s): 0.004293680191040039
+Test 4 Result: success
+Test 4 Elapsed Time (s): 0.004293918609619141
+Test 5 Result: success
+Test 5 Elapsed Time (s): 0.0042951107025146484
+Test 6 Result: success
+Test 6 Elapsed Time (s): 0.004288911819458008
+Test 7 Result: success
+Test 7 Elapsed Time (s): 0.004290580749511719
+Test 8 Result: success
+Test 8 Elapsed Time (s): 0.004282951354980469
+Test 9 Result: success
+Test 9 Elapsed Time (s): 0.0042781829833984375
+Test 10 Result: success
+Test 10 Elapsed Time (s): 0.004311800003051758
+
+
+===> Test cases - Scores:
+Project Name: ece250-w24-lab3-am2jegan
+Score01: 9
+Score02: 7
+Score03: 6
+Score04: 6
+Score05: 5
+Score06: 10
+Score07: 2
+Score08: 5
+Score09: 3
+Score10: 9
+Total Score: 62
+Mismatched Lines: 
+Skipped Tests: 0
+
+
+===> STL Usage Results:
+Project Name: ece250-w24-lab3-am2jegan
+driver.cpp (STL Usage): 0
+tokenize.h (STL Usage): 0
+tokenize.cpp (STL Usage): 0
+Total STL Usage: 0
+
+
+===> OOP Principles Results:
+Project Name: ece250-w24-lab3-am2jegan
+Class Definition: Yes
+Access Modifiers: No Access Modifiers
+Encapsulation: Good
+Inheritance: Good
+Polymorphism: No Polymorphism
+Constructor/Destructor: No Constructor/Destructor
+
+
+===> References Result:
+Project Name: ece250-w24-lab3-am2jegan
+References: 
+
+
+===> Valgrind Results:
+Project Name: ece250-w24-lab3-am2jegan
+test07.in Log: N/A
+test07.in Memory Leak: N/A
+test10.in Log: N/A
+test10.in Memory Leak: N/A
+Total Memory Leak: 0
+Valgrind Errors: 
